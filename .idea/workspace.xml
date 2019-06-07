@@ -1,47 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39c8003c-7e38-4d73-80d6-eaa6268a988e" name="Default Changelist" comment="Versao 1.0">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M3U8Parser.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/M3U8Parser_jar/M3U8Parser.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/M3U8Parser-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/allclasses-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/allclasses-noframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/com/nataniel/ExtInfo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/com/nataniel/ExtInfoBuilder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/com/nataniel/ExtInfoList.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/com/nataniel/Parser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/com/nataniel/package-frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/com/nataniel/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/com/nataniel/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/index-files/index-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/index-files/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/index-files/index-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/index-files/index-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/index-files/index-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/index-files/index-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/package-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/doc/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/M3U8Parser/META-INF/M3U8Parser.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/M3U8Parser/com/nataniel/ExtInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/M3U8Parser/com/nataniel/ExtInfoBuilder$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/M3U8Parser/com/nataniel/ExtInfoBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/M3U8Parser/com/nataniel/ExtInfoList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/M3U8Parser/com/nataniel/Parser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nataniel/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nataniel/builder/ExtInfoBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nataniel/inter/ExtInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nataniel/list/ExtInfoList.java" afterDir="false" />
+    <list default="true" id="39c8003c-7e38-4d73-80d6-eaa6268a988e" name="Default Changelist" comment="Versao 1.0 Atualizado o">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nataniel/builder/ExtInfoBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nataniel/builder/ExtInfoBuilder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,35 +13,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nataniel/Parser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+              <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/nataniel/builder/ExtInfoBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="455">
+              <caret line="87" column="102" selection-start-line="87" selection-start-column="102" selection-end-line="87" selection-end-column="102" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nataniel/inter/ExtInfo.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nataniel/list/ExtInfoList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -88,6 +54,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/nataniel/inter/ExtInfo.java" />
+        <option value="$PROJECT_DIR$/src/com/nataniel/builder/ExtInfoBuilder.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -100,12 +74,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="M3U8Parser" type="b2602c69:ProjectViewProjectNode" />
               <item name="M3U8Parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="M3U8Parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M3U8Parser" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="M3U8Parser" type="b2602c69:ProjectViewProjectNode" />
@@ -143,13 +124,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15527344" />
     <property name="project.structure.side.proportion" value="0.16470589" />
     <property name="settings.editor.selected.configurable" value="copyright" />
@@ -174,19 +153,31 @@
       <option name="presentableId" value="Default" />
       <updated>1559841042968</updated>
     </task>
+    <task id="LOCAL-00001" summary="Versao 1.0">
+      <created>1559841415880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559841415880</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Versao 1.0">
+      <created>1559841502847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559841502847</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25071633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -194,35 +185,53 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
   </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Versao 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versao 1.0" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/nataniel/list/ExtInfoList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nataniel/Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="204">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nataniel/inter/ExtInfo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nataniel/builder/ExtInfoBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="272">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nataniel/Parser.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nataniel/list/ExtInfoList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        <state relative-caret-position="34">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nataniel/builder/ExtInfoBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="87" column="102" selection-start-line="87" selection-start-column="102" selection-end-line="87" selection-end-column="102" />
         </state>
       </provider>
     </entry>
@@ -232,10 +241,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>M3U8Parser:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.16470589" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

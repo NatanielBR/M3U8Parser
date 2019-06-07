@@ -19,34 +19,18 @@ package com.nataniel.builder;
 
 import com.nataniel.inter.ExtInfo;
 
-import java.security.SecureRandom;
-import java.util.HashSet;
-
 /**
  * @author Neoold
  */
 public class ExtInfoBuilder {
-    private static SecureRandom random;
-    private static HashSet<Integer> ids;
     //dados do ext
     private String LogoURL = null;
     private String Id = null;
     private String Grupo = null;
     private String CanalNome = null;
     private String CanalURL = null;
-    private int unid;
 
     public ExtInfoBuilder() {
-        if (random == null) {
-            random = new SecureRandom();
-        }
-        if (ids == null) {
-            ids = new HashSet<>();
-        }
-        int i = random.nextInt();
-        while (ids.contains(i)) {
-            i = random.nextInt();
-        }
     }
 
     public void setLogoURL(String LogoURL) {
@@ -98,12 +82,7 @@ public class ExtInfoBuilder {
 
             @Override
             public boolean equals(Object o) {
-                return (o instanceof ExtInfo) && o.hashCode() == this.hashCode();
-            }
-
-            @Override
-            public int hashCode() {
-                return unid;
+                return (o instanceof ExtInfo) && ((ExtInfo) o).getCanalURL().equals(this.getCanalURL());
             }
 
             @Override
